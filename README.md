@@ -15,8 +15,7 @@ https://reactjsexample.com/a-simple-ecommerce-cart-application-with-react/
 
 ## Screenshots
 
-![App Screenshot]
-![Uploading ss02.png…]()
+![App Screenshot]![ss02](https://github.com/bhatiaprakarsh/Ecommerce_website/assets/97363984/63be5b4a-a5f8-4353-bad3-9127c302f242)
 
 
 
