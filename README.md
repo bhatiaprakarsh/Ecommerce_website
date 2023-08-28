@@ -15,7 +15,8 @@ https://reactjsexample.com/a-simple-ecommerce-cart-application-with-react/
 
 ## Screenshots
 
-![App Screenshot](E:\React_E-Commerce\public\ss02.png)
+![App Screenshot]
+![Uploading ss02.png…]()
 
 
 
